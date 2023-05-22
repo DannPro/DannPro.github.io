@@ -1,0 +1,22 @@
+body {
+    margin: 1rem 5rem 2rem 5rem;
+    color: white;
+    background-color: darkslategrey;
+}
+
+nav {
+    border-bottom: 1px solid black;
+    margin-bottom: 1rem;
+}
+
+
+.navigation ul {
+    list-style-type: none;
+    display: inline-block;
+
+}
+
+.tabs {
+    display: inline-block;
+    margin-right: 1rem;
+}
